@@ -20,7 +20,7 @@
 2. 实名采集小程序公众平台密码：13893495247@139.com / X2wJicEy3eb1
 
 # 安卓lmg三合一App证书相关
-开发 lmgcommon / silkdo_lmg_common
+ lmgcommon / silkdo_lmg_common
 
 # IOS二合一App证书相关
 1. 开发：  com.lmg.common / common_lmg_silkdo
