@@ -19,6 +19,7 @@
       <div @click='jumpHandle("/notebook/company/cs")'>城市大数据</div>
       <div @click='jumpHandle("/notebook/company/dcp")'>区域功能节点</div>
       <div @click='jumpHandle("/notebook/workHour")'>工作任务</div>
+      <div @click='jumpHandle("/notebook/git/")'>Git</div>
     </div>
     <div class='right_action'>
       <div class='theme_switch' @click='isDark = !isDark'>

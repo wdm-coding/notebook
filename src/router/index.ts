@@ -1,5 +1,5 @@
 import { Router } from 'vitepress'
-const whiteList = ['/','/company','/workHour','/company/cs','/company/dcp']
+const whiteList = ['/','/company','/workHour','/company/cs','/company/dcp','/git']
 const installRouter = (router: Router) => {
   router.onBeforeRouteChange = (to) => {
     let path = to.split('?')[0].replace('/notebook', '');

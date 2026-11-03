@@ -26,7 +26,6 @@ export default async () => {
           {
             text: 'Company',
             items: [
-              { text: '公司内部项目', link: '/company' },
               { text: '城市大数据', link: '/company/cs/' },
               { text: '区域功能节点', link: '/company/dcp/' },
             ]
@@ -34,6 +33,9 @@ export default async () => {
         ],
         '/workHour/': [
           { text: '工作任务', link: '/workHour' },
+        ],
+        '/git/': [
+          { text: 'Git', link: '/git/' },
         ]
       },
 
