@@ -38,3 +38,6 @@ admin test@2023
 
 # 环卫工人项目端
 liwb Find.888
+
+# 算力调度大屏系统
+https://summer-test.silkdo.com/#/singleScreen/13
