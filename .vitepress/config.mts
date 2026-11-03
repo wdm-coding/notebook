@@ -12,6 +12,7 @@ export default async () => {
     cleanUrls: true,
     srcDir: './src',
     outDir: './dist',
+    appearance: 'dark',
     rewrites: {
       'pages/:path(.*)': ':path(.*)'
     },
