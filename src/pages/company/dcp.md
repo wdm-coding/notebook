@@ -3,7 +3,7 @@
 1.	dodo账号  CSYY018  密码  Wdm-shumei0620
 https://dodo.dtsphere.com/web/user/manager
 
-2.  云桌面账号 CSYY018  密码  Wdm-shumei0620
+2.  云桌面账号 CSYY018  密码  Wdm-shumei0620.
 
 2.    授权运营平台：账号   oper_dev   密码  Ysadmin@123    网址  https://172.19.5.1:8443/ops-portal/home?tenant=-9999
 
