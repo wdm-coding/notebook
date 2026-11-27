@@ -50,7 +50,18 @@ https://dodo.dtsphere.com/web/user/manager
 ## 互联网测账号
 zhengxiao /  ZhengXiao110
 
-登记流程接口：/dev/dataProduct/registerProcess/info/{productId}，入参：version，请求方式GET
+## 测试环境
+1. https://118.183.58.134:16201/register-client/home
+用户名：91620000MA74W8AH20
+密码：   Admin123#$
+
+2. https://118.183.58.134:16206/register-mng/RegOverview
+用户名：admin
+密码：   Admin123#$   
+
+gansu/QK6D0fnV
+
+<!-- 登记流程接口：/dev/dataProduct/registerProcess/info/{productId}，入参：version，请求方式GET
 注销接口：/dev/dataProduct/logout，入参json{"productId":"","logoutDesc":""}，请求方式POST
 注销流程接口：/dev/dataProduct/logoutProcess/info/{productId}，请求方式GET
-登记信息接口：增加产品版本入参version
+登记信息接口：增加产品版本入参version -->
